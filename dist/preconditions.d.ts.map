@@ -1,0 +1,1 @@
+{"version":3,"file":"preconditions.d.ts","sourceRoot":"","sources":["../src/preconditions.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,iBAAiB,CAAA;AAEzD,wBAAgB,uBAAuB,CACrC,aAAa,EAAE,kBAAkB,EAAE,GAClC,MAAM,CAwBR;AAED,wBAAgB,+BAA+B,CAC7C,aAAa,EAAE,kBAAkB,EAAE,EACnC,OAAO,EAAE,MAAM,GACd,kBAAkB,GAAG,IAAI,CAO3B"}
